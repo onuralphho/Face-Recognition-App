@@ -2,9 +2,16 @@
 
 OpenCV and Kivymd Mobile Face Recognition App
 
-This app designed for University user login purpose.
+This app developed for University user login purpose.
 
+Before registration:
+![face-recog-app-mobile-ss2](https://user-images.githubusercontent.com/48223066/210412622-9729cc89-e6a0-4814-9b78-294d4fd37cb1.jpg)
+
+The app takes 200 pictures of your face when registring. You should hold your camera steady for accuracy of pictures. 
+It will better if you move your head slightly. 
+
+After registration:
 ![face-recog-app-mobile-ss](https://user-images.githubusercontent.com/48223066/210412590-b9e5ff8c-2c62-4583-85b9-281384281179.jpg)
 
 
-![face-recog-app-mobile-ss2](https://user-images.githubusercontent.com/48223066/210412622-9729cc89-e6a0-4814-9b78-294d4fd37cb1.jpg)
+
