@@ -21,3 +21,6 @@ It will be better if you move your head slightly.
 
 
 
+It works with multiple faces:
+
+![demo](https://user-images.githubusercontent.com/48223066/210445948-869a6fa9-a586-4483-849a-557d9b77ce85.gif)
